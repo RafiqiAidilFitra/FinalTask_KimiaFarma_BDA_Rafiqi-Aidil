@@ -1,0 +1,3 @@
+Analytics of Kimia Farma's Business Performance
+
+Kimia Farma adalah perusahaan industri farmasi pertama dan terbesar di Indonesia yang didirikan sejak tahun 1817. Perusahaan ini berbisnis di bidang farmasi dan memiliki 12 pabrik, 1.278 apotek, 451 klinik kesehatan, 75 laboratorium klinik, 10 optik, dan 3 klinik kecantikan yang tersebar di seantero Indonesia. Perusahaan ini memproduksi berbagai macam obat-obatan dan produk kesehatan lainnya.Sebagai Intern Big Data Analyst yang sudah memahami data penjualan masing-masing Brand di Kimia Farma, saya diminta untuk membuat dashboard data penjualan dalam satu tahun dari data mentah yang telah disediakan. Untuk menguji pemahaman saya, perlu untuk memproses data dari awal hingga akhir.
